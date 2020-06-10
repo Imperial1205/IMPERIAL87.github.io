@@ -1,2 +1,2 @@
-# IMPERIAL87.github.io
+# Imperial87.github.io
 Demo page
